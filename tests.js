@@ -1,5 +1,4 @@
 var expect = require('chai').expect
-var { describe, it } = require('mocha')
 var deliverStormTroopersEscapeScene = require('./index')
 
 describe('StarWarsScene', function () {
